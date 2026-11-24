@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://natashacordeiro.adv.br/sitemap.xml
